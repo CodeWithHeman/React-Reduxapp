@@ -1,0 +1,1 @@
+PS C:\Study Tutorials\React\reduxapp> npm install redux react-redux redux-thunk
